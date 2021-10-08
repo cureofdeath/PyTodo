@@ -1,2 +1,2 @@
 # PyTodo
-this repo contains some py code files
+this repo contains some python code files
